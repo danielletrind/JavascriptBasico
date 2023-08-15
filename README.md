@@ -1,8 +1,10 @@
 # JavascriptBasico
 Repositório para as aulas de JavaScript Basico de IW.
 
-##Aula Declaração de Variáveis:
+## Aula Declaração de Variáveis:
+
 https://danielletrind.github.io/JavascriptBasico/DeclaracaodeVariaveis/aula1.html
 
-##Funções
+## Funções:
+
 https://danielletrind.github.io/JavascriptBasico/Funcoes/funcoes.html
