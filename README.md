@@ -9,8 +9,8 @@ https://danielletrind.github.io/JavascriptBasico/Funcoes/funcoes.html
 
 
 ## Aula 3:
-
 https://danielletrind.github.io/JavascriptBasico/aula.03/aula3.html
+
 
 ## Aula IMC:
 
