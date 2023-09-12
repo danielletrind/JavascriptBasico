@@ -9,6 +9,6 @@ https://danielletrind.github.io/JavascriptBasico/DeclaracaodeVariaveis/aula1.htm
 
 https://danielletrind.github.io/JavascriptBasico/Funcoes/funcoes.html
 
-## Funções:
+## Aula 3:
 
 https://danielletrind.github.io/JavascriptBasico/aula.03/aula3.html
