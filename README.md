@@ -16,3 +16,6 @@ https://danielletrind.github.io/JavascriptBasico/aula.03/aula3.html
 
 https://danielletrind.github.io/JavascriptBasico/projeto_imc/imc.html
 
+## Aula tabuada:
+
+https://danielletrind.github.io/JavascriptBasico/tabuada/index.html
