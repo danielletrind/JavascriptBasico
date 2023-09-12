@@ -1,23 +1,24 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="estilo.css">
     <title>IMC</title>
 </head>
 
 <body>
+    <div class="forms">
+        <form name="imcForm" id="imcForm" action="#" style="text-align: center ; padding-top: 20px;" >
+            <h1>IMC</h1>
+                <h2>Altura</h2>
+                <input class = "alt" type="text" id="altura" name="altura">
      
-    <form name="imcForm" id="imcForm" action="#">
-        <p>
-            Altura<br>
-            <input type="text" id="altura" name="altura" />
-        </p>
 
         <p>
-            Peso <br>
+            <h2>Peso </h2>
             <input type="text" id="peso" name="peso" />
         </p>
         <p>
-            <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc()"/>
+            <input type="submit" name="Enviar" value="Calcular" onclick="calcula_imc(event)"/>
         </p>
         <!-- <div id ="resul">
         </div>      -->
